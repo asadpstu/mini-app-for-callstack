@@ -11,7 +11,7 @@ const HomeScreen = () => {
     <ScrollView>
       <View style={styles.header}>
           <Text style={styles.headerTitle}>
-            This is remote repository.
+            This is news remote repository.
           </Text>
       </View> 
     </ScrollView>
