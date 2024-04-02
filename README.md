@@ -36,7 +36,4 @@ Generate iOS or Android bundle files (ios | android):
 ```
 yarn bundle:<platform>
 ```
-`Commit message pattern:` 
-```feat(android): Implement new feature XYZ```
-```fix(ios): Fix issue with login screen```
-```chore: Update dependencies```
+Git Tag testing..
