@@ -20,8 +20,8 @@ const TabsNavigator = () => {
         name="HomeNavigator"
         component={HomeNavigator}
         options={{
-          title: 'News Home',
-          tabBarIcon: 'news',
+          title: 'News',
+          tabBarIcon: 'home',
         }}
       />
       <Tabs.Screen
