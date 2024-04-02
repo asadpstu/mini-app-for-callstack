@@ -40,3 +40,5 @@ yarn bundle:<platform>
 ```feat(android): Implement new feature XYZ```
 ```fix(ios): Fix issue with login screen```
 ```chore: Update dependencies```
+
+yarn add @react-native-masked-view/masked-view

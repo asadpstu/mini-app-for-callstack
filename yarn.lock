@@ -3165,6 +3165,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@react-native-masked-view/masked-view@npm:^0.3.1":
+  version: 0.3.1
+  resolution: "@react-native-masked-view/masked-view@npm:0.3.1"
+  peerDependencies:
+    react: ">=16"
+    react-native: ">=0.57"
+  checksum: 10c0/e8823e69caa4f916546de528faa9beb69d25311adecaeb37a5a3e2871141754e895d1b5faa01bc0ca07b4d4b676d940191917803da53208b1be8fef857e5b502
+  languageName: node
+  linkType: hard
+
 "@react-native/assets@npm:1.0.0":
   version: 1.0.0
   resolution: "@react-native/assets@npm:1.0.0"
@@ -9646,6 +9656,7 @@ __metadata:
     "@callstack/repack": "npm:^3.2.0"
     "@changesets/cli": "npm:^2.26.1"
     "@react-native-community/eslint-config": "npm:^3.2.0"
+    "@react-native-masked-view/masked-view": "npm:^0.3.1"
     "@react-navigation/material-bottom-tabs": "npm:^6.2.4"
     "@react-navigation/native": "npm:^6.0.13"
     "@react-navigation/native-stack": "npm:^6.9.1"
